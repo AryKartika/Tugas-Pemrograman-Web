@@ -1,0 +1,98 @@
+body {
+    background-color: #252645; 
+}
+.box-flex{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    padding: 5px;
+}
+
+.content1{
+    /* border: 1px solid black; */
+    margin: 10px;
+    padding: 5px;
+}
+
+.content2{
+    margin: 10px;
+    padding: 5px;
+    width: 900px; /* Atur lebar konten kiri*/
+}
+
+.ava{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: 85px;
+    box-shadow: 2px 2px 5px; 
+
+}
+
+.box1{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px; 
+    background-color: #faf1e2; 
+    border-radius: 15px;
+}
+
+.box2{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+    background-color: #faf1e2;  
+    border-radius: 15px;
+}
+
+.box3{
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid black;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+    background-color: #faf1e2; 
+    border-radius: 15px;
+}
+
+.imgdesain {
+    width: 150px;
+    height: 100px;
+    box-shadow: 2px 2px 5px;
+    padding: 30px;
+    background-color: #252645; 
+    border-radius: 15px;
+
+}
+.imgsosmed {
+    width: 40px;
+    height: 40px;
+}
+.sosmed{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 35px;
+    margin-top: 170px;
+
+
+}
+.Nama {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px black;
+    margin-left: 35px;
+
+}
+
+
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
